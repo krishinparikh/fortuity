@@ -1,0 +1,1 @@
+# Abstract base class for writing data to a database
