@@ -1,0 +1,6 @@
+# Virtual Environment
+fortuity-env/
+
+# Environment Variables
+.env
+
